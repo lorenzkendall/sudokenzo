@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning KQL 
 - 💞️ I’m looking to collaborate on consuming craft beer
 - 📫 How to reach me ... ask the Choomahs mate ;)
-
-Cheers.
