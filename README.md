@@ -2,4 +2,4 @@
 - 👀 I’m interested in Cloud Security
 - 🌱 I’m currently learning KQL 
 - 💞️ I’m looking to collaborate on consuming craft beer
-- 📫 How to reach me ... ask the Choomahs mate ;)
+- 📫 Reach me by carrier pigeon 
