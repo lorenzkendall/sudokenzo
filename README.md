@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @megap1nt
-- 👀 I’m interested in Cloud Security
-- 🌱 I’m currently learning KQL 
+- 👀 I’m interested in stuff
+- 🌱 I’m currently learning things
 - 💞️ I’m looking to collaborate on consuming craft beer
 - 📫 Reach me by carrier pigeon 
