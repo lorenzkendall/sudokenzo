@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @megap1nt
+- 👋 Hi, I’m @sudokenzo
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning things
 - 📫 Reach me by carrier pigeon 
